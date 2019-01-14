@@ -1,5 +1,5 @@
 # Computing in the Real World
-A list of computer science papers that incorporate concepts from physics or derive physical limits on computer science. 
+A list of computer science papers that incorporate concepts from physics or derive physical limits on computing. 
 
 ## Time, Clocks, and the Ordering of Events in a Distributed System 
 ### Leslie Lamport
